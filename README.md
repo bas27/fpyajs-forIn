@@ -1,4 +1,4 @@
-## `for ... in` (Домашнее задание к лекции «Object, Reflection и Proxy»)
+## `for ... in` (Домашнее задание к лекции «Object, Reflection и Proxy») [![Build status](https://ci.appveyor.com/api/projects/status/0ew911tpkkywfeni?svg=true)](https://ci.appveyor.com/project/bas27/fpyajs-forin)
 
 ### Легенда
 
